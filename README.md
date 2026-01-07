@@ -1,89 +1,98 @@
-# 👋 Hi, I'm Haim Galata  
+# Haim Galata – Computer Science Student | Data Science Track
 
-🎓 **Computer Science Student (Final Year)** at Sapir College  
-💻 Passionate about **Software Engineering**, **Problem Solving**, and **Clean Code**  
-🚀 Building hands-on projects in **Java**, **C# (.NET)**, **C++**, and **Full-Stack Development**
+👋 Hi!  
+I’m **Haim Galata**, a third-year B.Sc. Computer Science student (Data Science track),  
+with a strong interest in **machine learning, data-driven systems, and applied research**.
 
----
-
-## 🏆 Major Projects (Advanced / Full Applications)
-
-### 🌐 [Fullstack Outdoor Store](https://github.com/haimgalata/fullstack-outdoor-store)
-Full-Stack web application built with **React**, **Node.js**, and **MongoDB** simulating an online outdoor store.  
-Demonstrates **REST API design**, **client–server communication**, and **MVC architecture**.
-
-### ⚙️ [Garage Manager App (C#)](https://github.com/haimgalata/Garage-Manager-App-CSharp)
-Console-based **garage management system** developed in C#.  
-Implements **OOP**, **encapsulation**, and **layered architecture**.
-
-### 🎮 [Tic Tac Toe Misere (C# WinForms)](https://github.com/haimgalata/TicTacToe-Misere-WinForms)
-Windows Forms implementation of the **Tic-Tac-Toe (Misere variant)** using events and a custom game engine.  
-Focuses on **UI design**, **event handling**, and **decision logic**.
+This GitHub repository reflects my learning journey – from foundational programming and
+software engineering principles to applied machine learning and data analysis projects.
 
 ---
 
-## 🧩 Object-Oriented & Data-Driven Systems (Intermediate)
-
-### 🏥 [Medical Management System (Java)](https://github.com/haimgalata/medical-management-system-java)
-Java project applying **inheritance**, **composition**, and **exception handling** for a management system.
-
-### 📈 [Stock Prediction (Python – Machine Learning)](https://github.com/haimgalata/Stock-prediction-using-LDA)
-Implements a **Linear Discriminant Analysis (LDA)** classifier for stock price prediction.  
-Includes **data preprocessing** and a full **ML pipeline in Python**.
-
-### 🚗 [Car Dealership System (C++)](https://github.com/haimgalata/car-dealership-system-cpp)
-C++ project simulating a car dealership management system.  
-Uses **file handling**, **templates**, and **OOP design**.
-
-### ⚖️ [Law Firm Management System (C++)](https://github.com/haimgalata/law-firm-management-cpp)
-Simulates a law firm management system in C++.  
-Applies **inheritance**, **composition**, and **encapsulation**.
+## 🎓 Academic Background
+- B.Sc. in Computer Science (Data Science track)
+- Strong background in:
+  - Algorithms & Data Structures
+  - Linear Algebra & Probability
+  - Machine Learning
+  - Object-Oriented Programming
+- GPA: ~90
 
 ---
 
-## 🧮 Algorithmic & Educational Projects (Fundamentals)
+## 🔬 Featured Project – Machine Learning
 
-### 🔠 [Recursion and Strings (Java)](https://github.com/haimgalata/recursion-and-strings)
-Algorithmic exercises with recursion and string manipulation.  
-Includes **recursive series checks** and **string cleaning functions**.
+### 📈 Stock Prediction using LDA
+A machine learning course project focused on **classification using Linear Discriminant Analysis (LDA)**.
 
-### 🔢 [Arrays and Matrices Algorithms (Java)](https://github.com/haimgalata/arrays-and-matrices-algorithms)
-Algorithmic challenges on 1D and 2D arrays.  
-Focuses on **rearranging**, **overlap detection**, and **diagonal sums**.
+**Key aspects:**
+- Implemented the full ML pipeline:
+  - Data preprocessing
+  - Feature selection
+  - Model training
+  - Evaluation and analysis
+- Focused on understanding **model assumptions, limitations, and behavior**
+- Emphasis on experimentation and interpretation rather than just accuracy
 
-### 🧾 [Java Functions Menu](https://github.com/haimgalata/java-functions-menu)
-Console app demonstrating **loops**, **modular programming**, and **input validation**.
-
-### ✏️ [Text Editor OOP (C++)](https://github.com/haimgalata/text-editor-oop-cpp)
-Simple OOP demo of a text editor in C++.  
-Implements **operator overloading** and **dynamic memory management**.
-
----
-
-## 🎨 Small Utility Project
-
-### 🔢 [Base Converter (CSS/JS)](https://github.com/haimgalata/base-converter)
-Lightweight frontend tool for **number base conversion**.  
-Showcases **UI logic**, **design**, and **JavaScript fundamentals**.
+🔍 *If extended, the project could be improved by using larger datasets, alternative models,
+and more advanced validation techniques.*
 
 ---
 
-## 🧰 Technical Skills  
+## 💻 Software Engineering & Development Projects
 
-**Languages:** Java, C#, C++, Python, SQL  
-**Web:** React, Node.js, Express, MongoDB  
-**Core:** OOP, Algorithms, Data Structures, Design Patterns  
-**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Visual Studio  
-**Interests:** Machine Learning, QA/Automation, Full-Stack Development  
+### 🛒 Fullstack Outdoor Store
+A fullstack web application simulating an online outdoor equipment store.
+
+**Technologies:**
+- Frontend: React
+- Backend: Node.js, Express
+- Database: MongoDB
+
+**Highlights:**
+- RESTful API design
+- Client–server architecture
+- Data modeling and state management
 
 ---
 
-## 🌐 Connect With Me  
+### 🚗 Garage Manager (C# / .NET)
+A console-based vehicle garage management system.
 
-💼 [LinkedIn](https://www.linkedin.com/in/haim-galata-864b5b322/)  
-📂 [GitHub Portfolio](https://github.com/haimgalata)  
-📫 *Open to student / junior developer positions and collaborations.*
+**Highlights:**
+- Clean Object-Oriented Design
+- Inheritance and polymorphism
+- Clear separation between UI and business logic
 
 ---
 
-⭐ *“Clean code is not written by following rules, it’s written by following discipline.” – Robert C. Martin*
+### 🎮 TicTacToe Misère
+A variation of the TicTacToe game with alternative winning conditions.
+
+**Focus:**
+- Game logic
+- Algorithmic thinking
+- Handling edge cases
+
+---
+
+## 🛠️ Technologies & Tools
+- **Languages:** Python, Java, C#, C++, JavaScript
+- **Frameworks & Tools:** React, Node.js, .NET, Git, GitHub
+- **Domains:** Machine Learning, Data Analysis, Software Engineering
+
+---
+
+## 🎯 What This Repository Represents
+This GitHub is not a showcase of perfect products, but rather:
+- Continuous learning
+- Problem-solving processes
+- Experimentation and improvement
+- A strong foundation for further research and applied development
+
+I’m always happy to discuss the design decisions, trade-offs, and lessons learned in any project.
+
+---
+
+📫 **Contact:**  
+LinkedIn / Email available upon request
