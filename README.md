@@ -27,9 +27,9 @@ Focuses on **UI design**, **event handling**, and **decision logic**.
 ### 🏥 [Medical Management System (Java)](https://github.com/haimgalata/medical-management-system-java)
 Java project applying **inheritance**, **composition**, and **exception handling** for a management system.
 
-### 📈 [Stock Prediction (Java – Machine Learning)](https://github.com/haimgalata/stock-prediction-lda-java)
-Implements **Linear Discriminant Analysis (LDA)** classifier for stock price prediction.  
-Demonstrates **data preprocessing** and **ML logic in pure Java**.
+### ### 📈 [Stock Prediction (Python – Machine Learning)](https://github.com/USERNAME/REPO_NAME)
+Implements a **Linear Discriminant Analysis (LDA)** classifier for stock price prediction.  
+Includes **data preprocessing** and a full **ML pipeline in Python**.
 
 ### 🚗 [Car Dealership System (C++)](https://github.com/haimgalata/car-dealership-system-cpp)
 C++ project simulating a car dealership management system.  
