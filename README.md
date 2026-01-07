@@ -96,4 +96,4 @@ I’m always happy to discuss design decisions, trade-offs, and lessons learned 
 ---
 
 **Contact:**  
-LinkedIn(https://www.linkedin.com/in/haim-galata-864b5b322/) / Email(haimgalata@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/haim-galata-864b5b322/) / [Email](mailto:haimgalata@gmail.com)
