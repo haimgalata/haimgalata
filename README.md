@@ -20,7 +20,7 @@ software engineering principles to applied machine learning projects.
 
 ---
 
-## Featured Project – Machine Learning
+# Featured Project – Machine Learning
 
 ### [Stock Prediction using LDA](https://github.com/haimgalata/Stock-prediction-using-LDA)
 
@@ -35,14 +35,31 @@ A machine learning course project focused on **classification using Linear Discr
 - Focus on understanding **model assumptions, limitations, and behavior**
 - Emphasis on experimentation and interpretation rather than just maximizing accuracy
 
-*If extended, the project could be improved using larger datasets, alternative models,
-and more advanced validation techniques.*
+---
+
+# Software Engineering & Development Projects
+
+### [The Categories Game — Telegram Bot](https://github.com/guybensi/The-Categories-Game)
+
+A multiplayer **Telegram bot for group-based Categories gameplay**, developed as part of a collaborative project.
+
+**Technologies:**
+- Python
+- Telegram Bot API
+- MongoDB Atlas
+- Groq AI API
+
+**Highlights:**
+- AI-based answer validation and spelling correction  
+- Multiplayer game logic with round lifecycle management  
+- Position-based scoring system and leaderboard  
+- Persistent game data using MongoDB  
+- Modular backend architecture with separated game logic, validation, and storage layers  
 
 ---
 
-## Software Engineering & Development Projects
-
 ### [Fullstack Outdoor Store](https://github.com/haimgalata/fullstack-outdoor-store)
+
 A fullstack web application simulating an online outdoor equipment store.
 
 **Technologies:**
@@ -58,16 +75,18 @@ A fullstack web application simulating an online outdoor equipment store.
 ---
 
 ### [Garage Manager – C# / .NET](https://github.com/haimgalata/Garage-Manager-App-CSharp)
+
 A console-based garage management system.
 
 **Highlights:**
 - Clean Object-Oriented Design
 - Inheritance and polymorphism
-- Clear separation between UI and business logic
+- Separation between UI and business logic
 
 ---
 
 ### [TicTacToe Misère – WinForms](https://github.com/haimgalata/TicTacToe-Misere-WinForms)
+
 A variation of the TicTacToe game with alternative winning conditions.
 
 **Focus:**
@@ -78,22 +97,23 @@ A variation of the TicTacToe game with alternative winning conditions.
 ---
 
 ## Technologies & Tools
-- **Languages:** Python, Java, C#, C++, JavaScript
-- **Frameworks & Tools:** React, Node.js, .NET, Git, GitHub
+
+- **Languages:** Python, Java, C#, C++, JavaScript  
+- **Frameworks & Tools:** React, Node.js, .NET, MongoDB, Git, GitHub  
 - **Domains:** Machine Learning, Data Analysis, Software Engineering
 
 ---
 
 ## What This GitHub Represents
-This GitHub is not a collection of polished products, but a reflection of:
-- Continuous learning
-- Problem-solving processes
-- Experimentation and improvement
-- A strong foundation for further research and applied development
 
-I’m always happy to discuss design decisions, trade-offs, and lessons learned in any project.
+This GitHub reflects my development as a computer science student through:
+
+- Academic and independent projects  
+- Experimentation with machine learning and backend systems  
+- Practical software engineering and system design  
 
 ---
 
 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/haim-galata-864b5b322/) / [Email](mailto:haimgalata@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/haim-galata-864b5b322/)  
+Email: haimgalata@gmail.com
