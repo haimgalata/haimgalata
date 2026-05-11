@@ -39,7 +39,7 @@ A machine learning course project focused on **classification using Linear Discr
 
 # Software Engineering & Development Projects
 
-### [The Categories Game — Telegram Bot](https://github.com/guybensi/The-Categories-Game)
+### [The Categories Game — Telegram Bot](https://github.com/haimgalata/the-categories-game)
 
 A multiplayer **Telegram bot for group-based Categories gameplay**, developed as part of a collaborative project.
 
