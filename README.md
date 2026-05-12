@@ -1,119 +1,175 @@
-# Haim Galata – Computer Science Student | Data Science Track
+<h1 align="center">Haim Galata</h1>
 
-Hi!  
-I’m **Haim Galata**, a third-year B.Sc. Computer Science student (Data Science track),  
-with a strong interest in **machine learning, data-driven systems, and applied research**.
+<p align="center">
+  <strong>AI & Backend Developer</strong>
+</p>
 
-This GitHub profile represents my learning journey – from foundational programming and
-software engineering principles to applied machine learning projects.
+<p align="center">
+  Computer Science Student @ BGU <br/>
+  Research Intern @ CBG Cyber Security Labs
+</p>
+
+<p align="center">
+  <a href="https://github.com/haimgalata">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/haim-galata/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:haimgalata@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Academic Background
-- B.Sc. in Computer Science (Data Science track)
-- Strong background in:
-  - Algorithms & Data Structures
-  - Linear Algebra & Probability
-  - Machine Learning
-  - Object-Oriented Programming
+## About Me
+
+- Third-year B.Sc. Computer Science student (Data Science Track)
 - GPA: ~90
+- Research Intern at **CBG Cyber Security Labs**
+- Interested in AI systems, backend architecture, machine learning, and scalable applications
 
 ---
 
-# Featured Project – Machine Learning
+## Featured Projects
 
-### [Stock Prediction using LDA](https://github.com/haimgalata/Stock-prediction-using-LDA)
+## [The Categories Game](https://github.com/haimgalata/the-categories-game)
 
-A machine learning course project focused on **classification using Linear Discriminant Analysis (LDA)**.
+### AI-Powered Multiplayer Telegram Bot
 
-**Key aspects:**
-- Implemented a full ML pipeline:
-  - Data preprocessing
-  - Feature selection
-  - Model training
-  - Evaluation and analysis
-- Focus on understanding **model assumptions, limitations, and behavior**
-- Emphasis on experimentation and interpretation rather than just maximizing accuracy
+#### Key Features
+- Multiplayer game engine with real-time round management
+- AI-powered answer validation and spelling correction
+- Persistent game data using MongoDB Atlas
+- Position-based scoring and leaderboard system
+- Modular backend architecture
 
----
-
-# Software Engineering & Development Projects
-
-### [The Categories Game — Telegram Bot](https://github.com/haimgalata/the-categories-game)
-
-A multiplayer **Telegram bot for group-based Categories gameplay**, developed as part of a collaborative project.
-
-**Technologies:**
-- Python
-- Telegram Bot API
-- MongoDB Atlas
-- Groq AI API
-
-**Highlights:**
-- AI-based answer validation and spelling correction  
-- Multiplayer game logic with round lifecycle management  
-- Position-based scoring system and leaderboard  
-- Persistent game data using MongoDB  
-- Modular backend architecture with separated game logic, validation, and storage layers  
+#### Tech Stack
+`Python` `MongoDB` `Telegram Bot API` `Groq API`
 
 ---
 
-### [Fullstack Outdoor Store](https://github.com/haimgalata/fullstack-outdoor-store)
+## [SpeakTech](https://github.com/haimgalata/hackathon-english-platform)
 
-A fullstack web application simulating an online outdoor equipment store.
+### AI-Powered English & Tech Communication Platform
 
-**Technologies:**
-- Frontend: React  
-- Backend: Node.js, Express  
-- Database: MongoDB  
+#### Key Features
+- AI tutor experience focused on spoken English and tech jargon
+- Real-time interaction system
+- Modern fullstack architecture
+- Teacher dashboard and student progress tracking
+- Gamified learning experience
 
-**Highlights:**
-- RESTful API design  
-- Client–server architecture  
-- State management and data modeling  
-
----
-
-### [Garage Manager – C# / .NET](https://github.com/haimgalata/Garage-Manager-App-CSharp)
-
-A console-based garage management system.
-
-**Highlights:**
-- Clean Object-Oriented Design
-- Inheritance and polymorphism
-- Separation between UI and business logic
+#### Tech Stack
+`Next.js` `TypeScript` `TailwindCSS` `OpenAI` `Supabase`
 
 ---
 
-### [TicTacToe Misère – WinForms](https://github.com/haimgalata/TicTacToe-Misere-WinForms)
+## [Stock Prediction using LDA](https://github.com/haimgalata/Stock-prediction-using-LDA)
 
-A variation of the TicTacToe game with alternative winning conditions.
+### Machine Learning Classification Project
 
-**Focus:**
-- Game logic and rule handling
-- Algorithmic thinking
-- Edge-case management
+#### Key Features
+- End-to-end ML workflow
+- Data preprocessing and feature engineering
+- Model training and evaluation
+- Focus on model behavior and interpretation
 
----
-
-## Technologies & Tools
-
-- **Languages:** Python, Java, C#, C++, JavaScript  
-- **Frameworks & Tools:** React, Node.js, .NET, MongoDB, Git, GitHub  
-- **Domains:** Machine Learning, Data Analysis, Software Engineering
+#### Tech Stack
+`Python` `scikit-learn` `Pandas` `NumPy`
 
 ---
 
-## What This GitHub Represents
+## [Fullstack Outdoor Store](https://github.com/haimgalata/fullstack-outdoor-store)
 
-This GitHub reflects my development as a computer science student through:
+### Fullstack E-Commerce Simulation
 
-- Academic and independent projects  
-- Experimentation with machine learning and backend systems  
-- Practical software engineering and system design  
+#### Key Features
+- RESTful API architecture
+- React frontend with Node.js backend
+- MongoDB integration
+- Client-server application structure
+
+#### Tech Stack
+`React` `Node.js` `Express` `MongoDB`
 
 ---
 
-**Contact:**  
-[LinkedIn](https://www.linkedin.com/in/haim-galata-864b5b322/)  
-Email: haimgalata@gmail.com
+## Currently Building
+
+## [PrioritAI](https://github.com/haimgalata/Rocket-Damage-Prioritization-System)
+
+### AI-Assisted Infrastructure Damage Prioritization Platform
+
+#### Current Focus
+- ML-based damage analysis
+- GIS-based prioritization systems
+- AI-generated explanations
+- Event management infrastructure
+- Fullstack architecture design
+
+#### Tech Stack
+`FastAPI` `PostgreSQL` `React` `Docker` `OpenAI`
+
+---
+
+## Experience
+
+### Research Intern — CBG Cyber Security Labs
+
+Research focused on:
+- ML-based anomaly detection
+- NetFlow traffic analysis
+- LLM-assisted cybersecurity pipelines
+- Data-driven security systems
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,ts" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haimgalata&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimgalata&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:haimgalata@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-haimgalata%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/haim-galata/">
+    <img src="https://img.shields.io/badge/LinkedIn-Haim%20Galata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
