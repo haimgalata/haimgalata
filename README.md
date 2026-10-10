@@ -1,165 +1,55 @@
 <h1 align="center">Haim Galata</h1>
+<h3 align="center">Software Engineer · AI & Backend</h3>
 
 <p align="center">
-  <strong>AI & Backend Developer</strong>
+  <a href="https://linkedin.com/in/haim-galata-864b5b322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:haimgalata@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  Computer Science Student @ BGU <br/>
-  Research Intern @ CBG Cyber Security Labs
-</p>
+Computer Science graduate (B.Sc., Sapir Academic College, 2026, GPA 90+) who builds backend services and AI systems end to end: from LLM pipelines and computer-vision models to APIs, databases and cloud deployment.
 
-<p align="center">
-  <a href="https://github.com/haimgalata">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/haim-galata/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:haimgalata@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## About Me
-
-- Third-year B.Sc. Computer Science student (Data Science Track)
-- GPA: ~90
-- Research Intern at **CBG Cyber Security Labs**
-- Interested in AI systems, backend architecture, machine learning, and scalable applications
+- **Now:** Algorithm & Product Research Intern at **CoreWise**, a startup working on 3D point-cloud analysis for home inspectors
+- **Before:** Research Intern at **CBG Cyber Labs, Ben-Gurion University**, where I owned the LLM layer of a network-intrusion detection pipeline
+- **Looking for:** Software Engineer, Backend or AI-focused roles in Israel
 
 ---
 
 ## Featured Projects
 
-## [The Categories Game](https://github.com/haimgalata/the-categories-game)
+### [PrioritAI](https://github.com/haimgalata/Rocket-Damage-Prioritization-System): AI Damage Prioritization System
+Decision-support platform that helps local authorities decide which rocket-damaged buildings to repair first, by combining a damage-classification model, GIS analysis and an LLM-generated explanation. Final project, team of 2.
+- Trained a **ResNet50** model on 4,675 synthetic images, then fine-tuned it on hand-labeled real photos. Accuracy on held-out real images rose from **24.6% to 76.9%**
+- Built the **FastAPI** backend and deployed the ML service independently on **Google Cloud Run**
+- `Python` `TensorFlow` `FastAPI` `PostgreSQL` `Supabase` `React` `TypeScript` `Docker` `GCP`
 
-### AI-Powered Multiplayer Telegram Bot
+### [SpeakTech](https://github.com/haimgalata/hackathon-english-platform): AI English Practice for Tech Professionals
+Full-stack platform where developers practice spoken English with an AI tutor that gives structured feedback, plus vocabulary games and a teacher dashboard.
+- `Next.js` `TypeScript` `MongoDB` `Groq (Llama 3.3)` `Web Speech API` `Phaser 3` `Tailwind CSS`
 
-#### Key Features
-- Multiplayer game engine with real-time round management
-- AI-powered answer validation and spelling correction
-- Persistent game data using MongoDB Atlas
-- Position-based scoring and leaderboard system
-- Modular backend architecture
+### [The Categories Game](https://github.com/haimgalata/the-categories-game): Multiplayer Telegram Bot
+Real-time multiplayer game built at a hackathon. Answers are checked by a hybrid engine: fixed rules plus an LLM that returns a fixed-schema JSON response, with fallbacks for invalid output.
+- `Python` `MongoDB` `Telegram Bot API` `Groq`
 
-#### Tech Stack
-`Python` `MongoDB` `Telegram Bot API` `Groq API`
-
----
-
-## [SpeakTech](https://github.com/haimgalata/hackathon-english-platform)
-
-### AI-Powered English & Tech Communication Platform
-
-#### Key Features
-- AI tutor experience focused on spoken English and tech jargon
-- Real-time interaction system
-- Modern fullstack architecture
-- Teacher dashboard and student progress tracking
-- Gamified learning experience
-
-#### Tech Stack
-`Next.js` `TypeScript` `TailwindCSS` `OpenAI` `Supabase`
+### [Stock Prediction using LDA](https://github.com/haimgalata/Stock-prediction-using-LDA)
+Predicts next-day stock movement in 5 classes. The **Linear Discriminant Analysis** model is implemented from scratch in NumPy, without an ML library.
+- `Python` `NumPy`
 
 ---
 
-## [Stock Prediction using LDA](https://github.com/haimgalata/Stock-prediction-using-LDA)
-
-### Machine Learning Classification Project
-
-#### Key Features
-- End-to-end ML workflow
-- Data preprocessing and feature engineering
-- Model training and evaluation
-- Focus on model behavior and interpretation
-
-#### Tech Stack
-`Python` `scikit-learn` `Pandas` `NumPy`
-
----
-
-## [Fullstack Outdoor Store](https://github.com/haimgalata/fullstack-outdoor-store)
-
-### Fullstack E-Commerce Simulation
-
-#### Key Features
-- RESTful API architecture
-- React frontend with Node.js backend
-- MongoDB integration
-- Client-server application structure
-
-#### Tech Stack
-`React` `Node.js` `Express` `MongoDB`
-
----
-
-## Currently Building
-
-## [PrioritAI](https://github.com/haimgalata/Rocket-Damage-Prioritization-System)
-
-### AI-Assisted Infrastructure Damage Prioritization Platform
-
-#### Current Focus
-- ML-based damage analysis
-- GIS-based prioritization systems
-- AI-generated explanations
-- Event management infrastructure
-- Fullstack architecture design
-
-#### Tech Stack
-`FastAPI` `PostgreSQL` `React` `Docker` `OpenAI`
-
----
-
-## Experience
-
-### Research Intern — CBG Cyber Security Labs
-
-Research focused on:
-- ML-based anomaly detection
-- NetFlow traffic analysis
-- LLM-assisted cybersecurity pipelines
-- Data-driven security systems
+## Research Experience: CBG Cyber Labs, BGU
+- Designed and built from scratch an LLM pipeline that explains anomalous network traffic and scores how likely it is to be malicious
+- Built three reasoning modes: baseline, CTI-augmented (VirusTotal, AbuseIPDB, IPQualityScore), and **multi-agent consensus**, where two opposing "expert" LLMs argue and a judge model decides
+- Built experiment infrastructure covering 16+ configurations, with config-driven runs, ablation studies, precision-recall evaluation, and checkpoint/resume
 
 ---
 
 ## Tech Stack
 
-### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,ts" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs,tailwind" alt="Frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,gcp,git,linux" alt="Data and DevOps"/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="ML"/>
 </p>
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
-
----
-
-## Contact
-
-<p align="center">
-  <a href="mailto:haimgalata@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-haimgalata%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/haim-galata/">
-    <img src="https://img.shields.io/badge/LinkedIn-Haim%20Galata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+**AI:** LLM integration (OpenAI, Gemini, Groq), prompt engineering, multi-agent pipelines, computer vision, Claude Code, Cursor
